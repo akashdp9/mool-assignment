@@ -7,7 +7,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### Clone the repository in your local
-git clone 
+git clone https://github.com/akashdp9/mool-assignment.git
+
+### install the dependencies
+npm install
+
+### run the development server
+npm run star
 
 ### `npm start`
 
